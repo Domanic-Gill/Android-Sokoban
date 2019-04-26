@@ -1,20 +1,9 @@
-**G52GRP_TEAM18_2016_Here_For_The_Beer**
+Sokoban puzzle game in which the user must race to complete puzzles 
+against an AI player. The AI utilises an adapted version of the A*
+algorithm to solve any given level, including randomly generated
+levels.
 
-Trello links:
-Documentation Board - https://trello.com/b/pXKsdJgQ
-Development Board - https://trello.com/b/qks7sGwR
+This application was designed and implemented as a part of
+a year-long group project.
 
-Documentation link (One Drive):
-https://1drv.ms/f/s!ArSOO1b9t1NSgxP-e4klKXgYzGYV
-
-| Name               | Email                   |
-| -------------------|------------------------ |
-| James Kime         | psyjk1@nottingham.ac.uk |
-| Matthew Godfrey    | psymtg@nottingham.ac.uk |
-| Alexander Steenson | psyajs@nottingham.ac.uk |
-| Ibrahim El-Akkad   | psyie@nottingham.ac.uk  |
-| Haoxiang Gao       | psyhg4@nottingham.ac.uk |
-| Domanic Gill       | psydg@nottingham.ac.uk  |
-
-
-
+Contributors: James, Matthew, Alexander, Ibrahim, Haoxiang, Domanic.
