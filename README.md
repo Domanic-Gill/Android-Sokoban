@@ -7,3 +7,7 @@ This application was designed and implemented as a part of
 a year-long group project.
 
 Contributors: James, Matthew, Alexander, Ibrahim, Haoxiang, Domanic.
+
+| col 1      | col 2      | col 3      |
+|------------|-------------|-------------|
+|![Screen](Docs/preview1.png)
