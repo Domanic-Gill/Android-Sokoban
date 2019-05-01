@@ -8,6 +8,6 @@ a year-long group project.
 
 Contributors: James, Matthew, Alexander, Ibrahim, Haoxiang, Domanic.
 
-| Main menu screen| Level selection screen of story mode      | Game in progress. The slightly transparent character and boxes represent the AI and the AI's boxes, while the opaque character and boxes represent the player and the boxes it can interact with.      |
+| Main menu screen: Inludes playable tutorial and random map generator| Level selection screen: Select premade levels or extra difficult boss level   | Game in progress: Semi Transparent player and boxes represent the AI      |
 |------------|-------------|-------------|
 |![Screen](Docs/preview1.png)|![Screen](Docs/preview2.png)|![Screen](Docs/preview3.png)
