@@ -10,4 +10,4 @@ Contributors: James, Matthew, Alexander, Ibrahim, Haoxiang, Domanic.
 
 | col 1      | col 2      | col 3      |
 |------------|-------------|-------------|
-|![Screen](Docs/preview1.png)
+|![Screen](Docs/preview3.png)|![Screen](Docs/preview3.png)|![Screen](Docs/preview3.png)
