@@ -8,6 +8,6 @@ a year-long group project.
 
 Contributors: James, Matthew, Alexander, Ibrahim, Haoxiang, Domanic.
 
-| Main menu screen: Inludes playable tutorial and random map generator| Level selection screen: Select different premade levels or boss level   | Game in progress: Semi Transparent player and boxes represent the AI      |
+| Main menu screen: Inludes playable tutorial and random map generator| Level selection screen: Different premade levels or boss level   | Game in progress: Semi Transparent player and boxes represent the AI      |
 |------------|-------------|-------------|
 |![Screen](Docs/preview1.png)|![Screen](Docs/preview2.png)|![Screen](Docs/preview3.png)
